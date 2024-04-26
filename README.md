@@ -1,7 +1,4 @@
-# Getting Started with Create React App
-
-This is a weather application created for Digtal paani's assignment.
-
+# This is a weather application created for Digtal paani's assignment.
 
 **#Installation** <br>
 To run this application locally, follow these steps: <br>
