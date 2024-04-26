@@ -3,7 +3,7 @@
 This is a weather application created for Digtal paani's assignment.
 
 
-#Installation
+**#Installation**
 To run this application locally, follow these steps:
 1.Clone this repository to your local machine:
 git clone https://github.com/Captain-077/digital-paani-weather.git
